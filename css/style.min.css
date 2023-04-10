@@ -485,7 +485,7 @@ footer {
   display: none; }
 
 .single-layout .jumbotron:before {
-  background-color: rgba(255, 255, 255, 0.9); }
+  background-color: var(--page-secondary-color); }
 
 .blog-content img.float-left {
   margin: 15px 15px 15px 0; }
